@@ -1,11 +1,11 @@
 #include<stdio.h>
 void main()
 {
-int n,i=1,sum=0;
+int no,i=1,s=0;
 printf("enter n limit"):
-scanf("%d",&n);
-for(i=1;i<n;i++)
+scanf("%d",&no);
+for(i=1;i<no;i++)
 {
-sum=+i;
+s=+i;
 }
 }
